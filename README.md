@@ -25,7 +25,7 @@ Certifique-se de ter os seguintes itens instalados:
    ``git clone https://github.com/leonamvasquez/Projeto-Docker``
 
 2. Navegue para o diretório do projeto:
-  ``cd projeto-docker-v1``
+  ``cd Projeto-Docker``
 
 3. Inicie os serviços com Docker Compose:
 ``docker-compose up``
