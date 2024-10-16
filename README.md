@@ -10,7 +10,7 @@
 
 ---
 
-## **Pré-requisitos
+## **Pré-requisitos**
 **
 Certifique-se de ter os seguintes itens instalados:
 - **[Docker](https://docs.docker.com/engine/install/)**
