@@ -11,7 +11,6 @@
 ---
 
 ## **Pré-requisitos**
-**
 Certifique-se de ter os seguintes itens instalados:
 - **[Docker](https://docs.docker.com/engine/install/)**
 - **[Docker Compose](https://docs.docker.com/compose/install/)**
